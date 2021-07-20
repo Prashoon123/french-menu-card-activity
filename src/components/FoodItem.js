@@ -3,7 +3,7 @@ import Image from "next/image";
 
 function FoodItem({ name, image, width, price, id }) {
   return (
-    <div className="bg-gray-300 rounded-md xl:h-40 xl:w-80 my-10 mr-10 p-4 flex flex-row items-center">
+    <div className="bg-gray-300 rounded-md w-72 sm:w-80 my-10 mr-10 p-4 flex flex-row items-center">
       <Image
         loading="lazy"
         className="rounded-lg"

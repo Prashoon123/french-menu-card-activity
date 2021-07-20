@@ -15,9 +15,9 @@ export default function Home({ starters, salads, dishes, drinks, deserts }) {
       </Head>
 
       <main>
-        <h1 className="font-bold text-4xl m-12">Les idées de menus</h1>
+        <h1 className="font-bold text-4xl m-5 sm:m-12">Les idées de menus</h1>
 
-        <div className="m-12">
+        <div className="m-5 sm:m-12">
           <Category name="Hors-d'oeuvre" data={starters} />
           <Category name="Salades" data={salads} />
           <Category name="Plats" data={dishes} />
