@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "name": "Salade verte",
+    "image": "https://images.unsplash.com/photo-1546793665-c74683f339c1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
+    "price": 5.99
+  },
+  {
+    "id": 2,
+    "name": "Salade mixte",
+    "image": "https://images.unsplash.com/photo-1568625365131-079e026a927d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
+    "price": 14.99
+  },
+  {
+    "id": 3,
+    "name": "Salade de tomates",
+    "image": "https://images.unsplash.com/photo-1561363268-f17491a094bf?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+    "width": 250,
+    "price": 9.99
+  }
+]

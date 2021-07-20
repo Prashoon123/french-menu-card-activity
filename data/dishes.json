@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Steak",
+    "image": "https://images.unsplash.com/photo-1615937657715-bc7b4b7962c1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+    "price": 69.99
+  },
+  {
+    "id": 2,
+    "name": "Poulet",
+    "image": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+    "price": 50
+  },
+  {
+    "id": 3,
+    "name": "Poisson",
+    "image": "https://images.unsplash.com/photo-1600699899970-b1c9fadd8f9e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80",
+    "price": 45
+  },
+  {
+    "id": 4,
+    "name": "Omelette",
+    "image": "https://images.unsplash.com/photo-1498602753442-dfa7a49fc9c4?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
+    "price": 24.99
+  },
+  {
+    "id": 5,
+    "name": "Pizza",
+    "image": "https://images.unsplash.com/photo-1571407970349-bc81e7e96d47?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=625&q=80",
+    "price": 15
+  },
+  {
+    "id": 6,
+    "name": "Saumon",
+    "image": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1500&q=80",
+    "price": 19.99
+  }
+]
