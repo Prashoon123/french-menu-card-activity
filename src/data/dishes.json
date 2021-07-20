@@ -3,19 +3,19 @@
     "id": 1,
     "name": "Steak",
     "image": "https://images.unsplash.com/photo-1615937657715-bc7b4b7962c1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
-    "price": 69.99
+    "price": 45
   },
   {
     "id": 2,
     "name": "Poulet",
     "image": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
-    "price": 50
+    "price": 22
   },
   {
     "id": 3,
     "name": "Poisson",
     "image": "https://images.unsplash.com/photo-1600699899970-b1c9fadd8f9e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80",
-    "price": 45
+    "price": 30
   },
   {
     "id": 4,
