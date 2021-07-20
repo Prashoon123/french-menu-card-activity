@@ -13,13 +13,13 @@
   },
   {
     "id": 3,
-    "name": "Du coca",
+    "name": "Coca",
     "image": "https://images.unsplash.com/photo-1594971475674-6a97f8fe8c2b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80",
     "price": 5
   },
   {
     "id": 4,
-    "name": "Du jus d'orange",
+    "name": "Jus d'orange",
     "image": "https://images.unsplash.com/photo-1618046364546-81e9d03d39a6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=334&q=80",
     "width": 200,
     "price": 8
