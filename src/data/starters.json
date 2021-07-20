@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Melon",
+    "image": "https://images.unsplash.com/photo-1598025362874-49480e049c76?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=752&q=80",
+    "price": 10
+  },
+  {
+    "id": 2,
+    "name": "Crevettes",
+    "image": "https://images.unsplash.com/photo-1619810815691-4766cd4b8054?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
+    "price": 25
+  },
+  {
+    "id": 3,
+    "name": "Pain à l'ail",
+    "image": "https://images.unsplash.com/photo-1619531040576-f9416740661b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=376&q=80",
+    "price": 10
+  },
+  {
+    "id": 4,
+    "name": "Pâté",
+    "image": "https://images.unsplash.com/photo-1618569629551-ac5b990b1ef6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+    "price": 14.99
+  },
+  {
+    "id": 5,
+    "name": "Potage",
+    "image": "https://images.unsplash.com/photo-1604152135912-04a022e23696?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
+    "price": 9.99
+  },
+  {
+    "id": 6,
+    "name": "Dumplings",
+    "image": "https://images.unsplash.com/photo-1617183545317-9b62b9b24812?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80",
+    "price": 15
+  }
+]
